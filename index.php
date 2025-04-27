@@ -1,6 +1,6 @@
 <?php
 // Koneksi ke database PostgreSQL
-$host = "54.169.174.239"; // ganti IP sesuai EC2 kamu
+$host = "db-uts.cnqauce4qea4.ap-southeast-1.rds.amazonaws.com"; // ganti IP sesuai EC2 kamu
 $port = "5432";
 $dbname = "ecommerce";
 $user = "postgres";
